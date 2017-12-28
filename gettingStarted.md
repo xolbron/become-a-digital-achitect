@@ -2,7 +2,7 @@
 *Written by: Jordan Budisantoso*
 
 ### Selecting an IDE
-For the purpose of getting started, we will be using 2 different Interactive Development Environments (IDEs). We chose these IDE's specifically because they are web based which means that no installation of software is necessary; this is useful for schols were Chromebooks are since since they are one of the most affordable options for schools. You can still use code editors like Atom or Sublime, but you'll need set up a Web Development Environment on your computer which can be a little more complicated for beginners.
+To start off, we will be using 2 different Interactive Development Environments (IDEs). We chose these IDE's specifically because they are web based which means that no installation of software is necessary; this is very useful for schools were Chromebooks are used since they are one of the most affordable options for schools. You can still use code editors like [Atom](https://ide.atom.io/) or [Sublime](), but you'll need set up a Web Development Environment on your computer which can be a little more complicated for beginners.
 
 #### Thimble by Mozilla
 Though this isn't a true IDE, [Thimble by Mozilla](https://thimble.mozilla.org) is an online code editor that makes it easy to create and publish web pages while learning HTML, CSS & JavaScript. It is great for beginners wanting to learn a web design/webVR workflow which provides a good scaffold to then transition to “real-life” tools such as Cloud 9.
@@ -96,5 +96,11 @@ Add the `<a-box>`, `<a-cylinder>`, `<a-plane>` elements inside the same `<a-scen
 	</html>
 ```
 
-Play around with the attributes to learn more about how they are used. 
+#### **Tip:**
+
+**As you progress through this course, we encourage you to play around with many of the attributes (such as numbers, colors, positions, scaling, and more...) to learn about how they affect the VR environment.**
+<br>
+
+
+## [Next Lesson](shapes.md)
 

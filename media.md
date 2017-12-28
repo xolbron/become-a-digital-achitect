@@ -1,4 +1,7 @@
-# Embedding Media (Audio/Video)
+# Embedding Media (Photos/Audio/Video)
+
+
+## Images / Photographs
 
 Take time to explore this example using images. The first image is a special 360 degree image (like one that might be taken with a Theta S camera) and it is used as a background.
 
@@ -24,8 +27,8 @@ The third image is a flat texture applied to a box. Notice how the pattern repea
                 <img id="texture" src="http://mycode.zone/res/texture.jpg">
             </a-assets>
             <!-- Try switching the images around on different objects -->
-            <a-sphere src="#globe" 
-                rotation="0 0 -23.5" 
+            <a-sphere src="#globe"
+                rotation="0 0 -23.5"
                 position="-800 600 -200"
                 radius="100">
                     <a-animation

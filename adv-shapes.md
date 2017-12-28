@@ -1,13 +1,10 @@
 # Advanced Shapes
 
-In your A-frame World there are even more shapes that allow you to create highly advanced objects that look even more realistic to the user. Take a few minutes to play around with it.
+In your A-frame World there are even more shapes that allow you to create highly advanced objects that look even more realistic to the user. Take a few minutes to play around with some of the shapes below.
 
-As you play around,try changing the size and position of the objects. Remember the following:
+As you play around,try changing the size, opacity, scale, and position of the objects.
 
-* The position attribute lists the coordinates in X Y Z order seperated by a space.
-* You can click and hold to turn your head in the environment.
-* You can move around using the w, a, s, d keys on your keyboard.
-* Colors can either be a work, like lightblue, or a Hex code like #7BC8A4
+
 
 **Example 1**
 ```html
@@ -15,15 +12,13 @@ As you play around,try changing the size and position of the objects. Remember t
 <html>
     <head>
         <title>
-            Making Shapes
+            Advanced Shapes
         </title>
-        <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+        <script src="https://aframe.io/releases/0.7.0/aframe.min.js"></script>
     </head>
     <body>
         <a-scene>
-            <a-sphere position="-1 2 -4" radius="1" color="lightblue"></a-sphere>
-            <a-box position="1 2 -3" width="1" height="1" 
-            depth="1" color="pink"></a-box>
+            
         </a-scene>
     </body>
 </html>

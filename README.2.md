@@ -1,8 +1,8 @@
 # Become a Digital Architect Through the Creation Virtual Reality Worlds
-#### *A TAU VR and Washington Leadership Academy collaboration*
+*A TAU VR and Washington Leadership Academy collaboration*
 
 ## Introduction
-Thoughout this course you will learn how to become a Digital Architect, a Digital Architect is  person who creates alternative worlds for users to explore, and interact with. Digital Arcihtects create worlds of imagination and seemingly utopian concepts rationalized a made an experience for others to enjoy.
+Thoughout thids course you will learn how to become a Digital Architect, a Digital Architect is  person who creates alternative worlds for users to explore, and interact with. Digital Arcihtects create worlds of imagination and seemingly utopian concepts rationalized a made an experience for others to enjoy.
 
 Eventhough WebVR (Virtual Reality that be be seen from a website) is still in its early stages of development, it still provides access for you to create content on Virtual Reality devices, such as the Oculus Rift, Google Daydream, HTC Vive, Samsung Gear VR, or the Google Cardboard, in your web browser. 
 
@@ -28,4 +28,3 @@ A-Frame is also an easy leap for students who have already been introduced to ba
 ### [Importing 3D Models & Objects](objectLoading.md)
 ### [Creating Physics](physics.md)
 ### [A-Frame 3rd Party Extras](extras.md)
-### [Publishing Your Project](publishing.md)
